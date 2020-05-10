@@ -1,2 +1,2 @@
 # Movie-Ticket-Booking
-Movie Ticket booking app which allows you to select movie of your choice and generates the grand total price.
+Movie Seat booking app which allows you to select movie of your choice and generates the grand total price.
